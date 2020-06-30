@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">HelloWorldEPSI</string>
+    <string name="hello_world_epsi_lille">Hello World EPSI LILLE !</string>
 </resources>
